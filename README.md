@@ -1,4 +1,4 @@
 # TECMAK01
 My first repository
 <br>
-author : Muhammad Ali
+author : Muhammad Ali (TECMAK)
