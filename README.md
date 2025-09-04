@@ -1,3 +1,3 @@
 # TECMAK01
 My first repository
-authir : Muhammad Ali
+author : Muhammad Ali
